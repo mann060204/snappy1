@@ -1,7 +1,7 @@
 # Snappy - Chat Application 
 Snappy is chat application build with the power of MERN Stack.
 
-![login page](./images/chitzy_login.png)
+![login page](./images/snappy.png)
 
 ![home page](./images/chitzy.png)
 
